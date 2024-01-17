@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#map {
+    height: 500px;
+    width: 100%;
+}
+
+#location-info {
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
